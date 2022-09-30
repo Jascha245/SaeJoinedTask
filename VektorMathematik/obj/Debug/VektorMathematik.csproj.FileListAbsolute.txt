@@ -1,0 +1,8 @@
+C:\Users\jacob\source\repos\VektorMathematik\VektorMathematik\bin\Debug\VektorMathematik.exe.config
+C:\Users\jacob\source\repos\VektorMathematik\VektorMathematik\bin\Debug\VektorMathematik.exe
+C:\Users\jacob\source\repos\VektorMathematik\VektorMathematik\bin\Debug\VektorMathematik.pdb
+C:\Users\jacob\source\repos\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacob\source\repos\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.exe
+C:\Users\jacob\source\repos\VektorMathematik\VektorMathematik\obj\Debug\VektorMathematik.pdb
